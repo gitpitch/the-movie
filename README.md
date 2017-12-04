@@ -1,3 +1,3 @@
 # the-movie
 
-Slideshow presentation for the GitPitch website.
+GitPitch Presentations For Developers - Simple Introduction
